@@ -1,4 +1,5 @@
 # location-marker
+this project is tourist map for top-rated locations using JS Google Maps API and VueJS
 
 ## Project setup
 ```
